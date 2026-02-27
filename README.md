@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 <h3 align="center">B.Tech Computer Engineering Student | MERN Developer | Cloud Learner</h3>
-
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namanjain1203&show_icons=true&theme=tokyonight)
 ---
 
 ### 🚀 About Me
