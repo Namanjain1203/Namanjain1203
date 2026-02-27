@@ -21,7 +21,7 @@ MongoDB | Express.js | React.js | Node.js | HTML | CSS
 
 **Tools:**  
 Git | GitHub | AWS | Docker | MySQL  
-
+![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,aws,docker,git)
 ---
 
 ### 📌 Projects
