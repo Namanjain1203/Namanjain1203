@@ -22,7 +22,7 @@ MongoDB | Express.js | React.js | Node.js | HTML | CSS
 **Tools:**  
 Git | GitHub | AWS | Docker | MySQL  
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,aws,docker,git" />
 </p>
 
@@ -31,8 +31,9 @@ Git | GitHub | AWS | Docker | MySQL
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namanjain1203&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namanjain1203&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Namanjain1203&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namanjain1203&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
