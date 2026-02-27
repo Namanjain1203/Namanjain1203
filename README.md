@@ -31,9 +31,9 @@ Git | GitHub | AWS | Docker | MySQL
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namanjain1203&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://your-repo-name.vercel.app/api?username=Namanjain1203&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namanjain1203&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://your-repo-name.vercel.app/api/top-langs/?username=Namanjain1203&layout=compact&theme=tokyonight" />
 </p>
 
 ---
