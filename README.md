@@ -47,7 +47,7 @@ Git | GitHub | AWS | Docker | MySQL
 ### 📌 Projects
 - 🔹 **TaskSplit** – Task Management Web App  
 - 🔹 **Fitness Tracking & Analysis Web App**
-- 🔹 **cricbuzz-Clone**   
+- 🔹 **Cricbuzz-Clone**   
 
 ---
 
