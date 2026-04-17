@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 3rd Year B.Tech CE at Marwadi University  
 - 💻 Building Full Stack Web Applications (MERN)  
-- ☁️ Learning Cloud & Deployment (AWS)  
+- ☁️ Learning Cloud & Deployment 
 - 🧠 Strong in Data Structures & Problem Solving  
 
 ---
